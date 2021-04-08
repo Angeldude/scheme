@@ -1,5 +1,6 @@
 ---
 title: Evaluation
+header: Evaluation
 date: November 28, 2016
 author: Adam Wespiser
 ---
@@ -9,7 +10,9 @@ author: Adam Wespiser
 
 
 #### Evaluation Context
-![img](../wyas/img/WYAS-Eval-If-Statement.png)
+
+<img src="/img/WYAS-Eval-If-Statement.png" style="height:auto; width:100%">
+
 LispVal.hs defines our key data structure for evaluation:   
 
 
